@@ -2,9 +2,9 @@
 
 ## 说明
 
-[后端项目github地址](https://github.com/WeiYe-Jing/datax-web)
+[后端项目github地址](https://github.com/Galaxy-ht/datax-new-web/tree/master/datax-web)
 
-该项目由 [vue-element-admin](https://github.com/PanJiaChen/vue-element-admin) 修改而来
+该项目由 [datax-web-ui](https://github.com/WeiYe-Jing/datax-web-ui) 修改而来
 
 
 ## Build Setup
